@@ -15,7 +15,7 @@
 		</div>
 		<div class="col-md-4">
 		<h2>
-			<center>TO DO LIST</center>
+			<center>TO DO LIST tanga</center>
 		</h2>
 			<ul class="list-group">
 			</h2>
